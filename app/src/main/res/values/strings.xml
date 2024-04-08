@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aeroporto</string>
+    <string name="corte">CORTE</string>
+    <string name="porta">PORTA</string>
+    <string name="desembarque">DESEMBARQUE</string>
+
+</resources>
